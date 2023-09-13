@@ -1,3 +1,8 @@
+If a simple substituation is required, instead of using this action, a one-line bash command using [envsubst](https://www.man7.org/linux/man-pages/man1/envsubst.1.html) will suffice.
+```
+- run: envsubst < "source.txt" > "destination.txt"
+```
+
 # Template Render Action
 [![build-test](https://github.com/recih/template-render-action/actions/workflows/test.yml/badge.svg)](https://github.com/recih/template-render-action/actions/workflows/test.yml)
 
