@@ -99,3 +99,8 @@ jobs:
 # TODO
 
 * [ ] Support more template engines
+
+## Credits
+
+The initial GitHub action has been created by [recih](https://github.com/recih) at
+[recih/template-render-action](https://github.com/recih/template-render-action).
