@@ -36,7 +36,7 @@ outputs:
   content:
     description: 'Output content. The rendered template.'
 runs:
-  using: 'node16'
+  using: 'node20'
   main: 'dist/index.js'
 branding:
   icon: 'file-text'  
